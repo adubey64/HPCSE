@@ -65,7 +65,7 @@ To date, the code in the git repository is a small subset of the production vers
 * Jared O'Neal, Anshu Dubey, & Klaus Weide. [Experience report: refactoring the mesh interface in FLASH, a multiphysics software](https://doi.org/10.1109/eScience.2018.00141). 2018 IEEE 14th International Conference on e-Science (e-Science). IEEE.
 
 ### Author bios
-Anshu Dubey is ...
+Anshu Dubey is a Computer Scientist in Argonne National Laboratory’s Mathematics and Computer Science division. She is the primary software architect for the FLASH code. She is interested in all aspects of scientific software development and has largely been responsible for the establishing FLASH's software process.
 
 Jared O’Neal is a Scientific Software Programmer/Developer in Argonne National
 Laboratory’s Mathematics and Computer Science division.  He currently works on
